@@ -7,4 +7,4 @@ The algorithm is based on the psychoacoustic model of human hearing system.
 
 - In phase 1, many signals are generated, and STFT and spectrogram of a taken signal is created in MATLAB environment.
 
-- In the phase 2, a decimator, a quantizer, transform coding with DFT and DCT is created and some of the missing parts of a MPEG/Audio encoder to do audio compression via MATLAB.
+- In phase 2, a decimator, a quantizer, transform coding with DFT and DCT is created and some of the missing parts of a MPEG/Audio encoder to do audio compression via MATLAB.
