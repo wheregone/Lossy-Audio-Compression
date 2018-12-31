@@ -7,3 +7,6 @@ The implementation of MPEG Audio Compression.
 - The algorithm is based on the psychoacoustic model of human hearing system. 
 
 - A decimator, a quantizer, transform coding with DFT and DCT is created and some of the missing parts of a MPEG/Audio encoder to do audio compression via MATLAB.
+
+
+The detailed technical report can be found [here](./Results/report.pdf)
